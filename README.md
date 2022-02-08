@@ -1,3 +1,4 @@
 ## Personal Portfolio
+my personal portfolio website
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+[Site](http://galpodlipnik.com)
