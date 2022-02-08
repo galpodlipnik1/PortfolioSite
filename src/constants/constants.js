@@ -4,8 +4,8 @@ export const projects = [
     description: "Using React, Node.js, Express & MongoDB I created a full-stack application that allows you to save your memories",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://memories.pogers.si',
+    visit: 'https://github.com/galpodlipnik1/memoriesMERN',
     id: 0,
   },
   {
