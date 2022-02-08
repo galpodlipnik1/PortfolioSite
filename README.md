@@ -1,3 +1,4 @@
 ## Personal Portfolio
+my personal portfolio website made with react and next.js
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+[Site](http://galpodlipnik.com)
